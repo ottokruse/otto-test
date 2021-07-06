@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ottokruse/otto-test/issues"
   },
-  "homepage": "https://github.com/ottokruse/otto-test#readme"
+  "homepage": "https://github.com/ottokruse/otto-test#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
